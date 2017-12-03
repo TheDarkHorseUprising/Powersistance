@@ -1,8 +1,4 @@
 # Powersistance
 
-                                         .__          __                              
-#______   ______  _  __ ___________  _____|__| _______/  |______    ____   ____  ____  
-#\____ \ /  _ \ \/ \/ // __ \_  __ \/  ___/  |/  ___/\   __\__  \  /    \_/ ___\/ __ \ 
-#|  |_> >  <_> )     /\  ___/|  | \/\___ \|  |\___ \  |  |  / __ \|   |  \  \__\  ___/ 
-#|   __/ \____/ \/\_/  \___  >__|  /____  >__/____  > |__| (____  /___|  /\___  >___  >
-#|__|                      \/           \/        \/            \/     \/     \/    \/
+1. A powershell script for persistance
+2. change the variables $pathofscript(relative path of the script) and $persist(process to persist) to suit what you require
