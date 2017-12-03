@@ -2,10 +2,8 @@
 $pathofscript = "relative path of the script"
 $persist = "process to persist"
 
-
 #change directory to the one containing powersistnace
 cd $pathofscript
-
 
 #find startup folder
 $path = [Environment]::GetFolderPath("Startup")
