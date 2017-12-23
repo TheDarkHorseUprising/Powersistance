@@ -19,3 +19,6 @@ Step2: change the variables $pathofscript(relative path to dir of the script) an
 <br>
 <br>
 Step3: run on the target system.
+<br>
+<br>
+<em>btw use shown.ps1 for demos and testing and hidden.ps1 for attacks</em>
