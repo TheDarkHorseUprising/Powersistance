@@ -6,5 +6,6 @@ It does require you change 2 variables... so obviously that's some <strong>OSCP<
 
 Step1: downloadscript.
 <br>
+<br>
 Step2: change the variables $pathofscript(relative path to dir of the script) and $persist(process to persist) to match what you require.
 
