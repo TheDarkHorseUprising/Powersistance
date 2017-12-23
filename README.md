@@ -2,7 +2,7 @@
 
 A powershell script for persistance!
 You can use this to persist any process you want.
-It does require you change 2 variables... so obviously that's some OSCP shit right there.
+It does require you change 2 variables... so obviously that's some <strong>OSCP</strong> shit right there.
 
 Step1: downloadscript.
 <br>
