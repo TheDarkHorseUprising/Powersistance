@@ -1,4 +1,4 @@
-<font face="consolas">
+
 # Powersistance
 
 A powershell script for persistance!
@@ -23,4 +23,4 @@ Step3: run on the target system.
 <br>
 <br>
 <em>btw use shown.ps1 for demos and testing and hidden.ps1 for attacks</em>
-</font>
+
